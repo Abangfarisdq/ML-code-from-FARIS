@@ -2,7 +2,7 @@
 All machine learning code that i‘ve done
 
 Hi!!!
-Welcome, my name is Faris, here are the results from my 1 year journey learning Machine Learning.
+Welcome, my name is Faris, here are the results from my 1 year journey with Machine Learning.
 You can take what you want, but dont forget to credit me if you use my code as referrence.
 I hope you enjoy this.
 
